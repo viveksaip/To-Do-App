@@ -1,7 +1,8 @@
 TaskPro App
 
+
 Techstack: 
 
 UI - Javascript, React
 
-Backend - Firebase 
+Backend - Node.js, Firebase 
